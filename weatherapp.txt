@@ -1,0 +1,44 @@
+<HTML DOCtype!>
+
+<head>
+<h1>ML Weather</h1>
+</head>
+
+<div id="menu">
+<a src="" >Daily Weather</a> 
+<a src="">About The Weather Homily App</a>
+<a src="">Weekly Weather</a>
+
+<div id="greeting">
+<body>
+<p>The enthusiasm as the day begins, with us being able to dress accordingly. Thanks for 
+joining our tidbit! We love to tell you all about your weather. Daily, weekly, our sources
+are up to date.</p>
+
+<h1>Good Morning!</h1> 
+<href img="">
+<h2>Today the weekly forcast is showing to be </h2>
+
+<div id="weekly forecast">
+<href src="url" >
+
+
+
+
+
+
+</body>
+
+<footer>
+<ul>
+<li>Monday: We got you!</li>
+<li>Tuesday: We'd love to show you your forcast!</li>
+<li>Wednesday: Its always sunny in our places! Lets check! </li>
+<li>Thursday: Not gonna lie... Do you need a jacket?</li>
+<li>Friday: Its going going going... you need to look nice tonight!</li>
+<li>Saturday: Lets see what fun we can involve ourselves with</li>
+<li>Sunday: Honor yourself, with modesty, whatever that means to you depends on how the day is feeling.</li>
+</ul>
+Thanks for the approach! We hope you live in excellence and enjoy the weather of the day. If things are to change,
+or maybe it is raining when it displays something else. Please, come back and check again.
+We do love rising like the beautiful palms of The South!</footer>
